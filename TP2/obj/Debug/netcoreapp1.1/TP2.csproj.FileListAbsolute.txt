@@ -1,0 +1,13 @@
+/Users/marineango/Projects/TP2/TP2/bin/Debug/netcoreapp1.1/TP2.deps.json
+/Users/marineango/Projects/TP2/TP2/bin/Debug/netcoreapp1.1/TP2.runtimeconfig.json
+/Users/marineango/Projects/TP2/TP2/bin/Debug/netcoreapp1.1/TP2.runtimeconfig.dev.json
+/Users/marineango/Projects/TP2/TP2/bin/Debug/netcoreapp1.1/TP2.dll
+/Users/marineango/Projects/TP2/TP2/bin/Debug/netcoreapp1.1/TP2.pdb
+/Users/marineango/Projects/TP2/TP2/obj/Debug/netcoreapp1.1/TP2.csproj.AssemblyReference.cache
+/Users/marineango/Projects/TP2/TP2/obj/Debug/netcoreapp1.1/TP2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marineango/Projects/TP2/TP2/obj/Debug/netcoreapp1.1/TP2.AssemblyInfoInputs.cache
+/Users/marineango/Projects/TP2/TP2/obj/Debug/netcoreapp1.1/TP2.AssemblyInfo.cs
+/Users/marineango/Projects/TP2/TP2/obj/Debug/netcoreapp1.1/TP2.csproj.CoreCompileInputs.cache
+/Users/marineango/Projects/TP2/TP2/obj/Debug/netcoreapp1.1/TP2.dll
+/Users/marineango/Projects/TP2/TP2/obj/Debug/netcoreapp1.1/TP2.pdb
+/Users/marineango/Projects/TP2/TP2/obj/Debug/netcoreapp1.1/TP2.genruntimeconfig.cache
