@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "marine_tp", "marine_tp.csproj", "{FD4323D4-60D5-4C0F-8C8E-3892598A0DC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD4323D4-60D5-4C0F-8C8E-3892598A0DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4323D4-60D5-4C0F-8C8E-3892598A0DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4323D4-60D5-4C0F-8C8E-3892598A0DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4323D4-60D5-4C0F-8C8E-3892598A0DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDE7B504-6917-4ADB-BDB5-4F1AFF68BE7B}
+	EndGlobalSection
+EndGlobal
