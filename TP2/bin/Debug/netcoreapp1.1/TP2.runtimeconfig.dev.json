@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/Users/marineango/.dotnet/store/|arch|/|tfm|",
-      "/Users/marineango/.nuget/packages"
-    ]
-  }
-}
