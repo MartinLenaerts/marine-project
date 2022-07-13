@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace marine_tp.Controllers
 {
@@ -13,7 +8,7 @@ namespace marine_tp.Controllers
     {
 
         [HttpGet]
-        [Route("weather")]
+        [Route("/")]
         public string Weather()
         {
             return "this route '/weather' return this";   
